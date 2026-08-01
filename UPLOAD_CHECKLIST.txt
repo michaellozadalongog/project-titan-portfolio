@@ -1,0 +1,16 @@
+GITHUB PAGES UPLOAD CHECKLIST
+
+Upload these items to the TOP LEVEL of the repository:
+- index.html
+- assets/
+- .nojekyll
+- README.md
+
+Do not upload the outer Project_TITAN_GitHub_Pages folder as one nested folder.
+The index.html file must be visible immediately when you open the repository.
+
+Recommended repository name:
+project-titan-portfolio
+
+Expected site address:
+https://YOUR-GITHUB-USERNAME.github.io/project-titan-portfolio/
