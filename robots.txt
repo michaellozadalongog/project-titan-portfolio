@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://michaellozadalongog.github.io/project-titan-portfolio/sitemap.xml

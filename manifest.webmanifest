@@ -1,0 +1,16 @@
+{
+  "name": "Project TITAN Engineering Portfolio",
+  "short_name": "Project TITAN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "Mechanical design and engineering validation portfolio by Michael Lozada-Longog.",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
